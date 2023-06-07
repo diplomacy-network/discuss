@@ -1,0 +1,14 @@
+{
+    "name": "dnw/discuss",
+    "type": "project",
+    "require-dev": {
+        "phpunit/phpunit": "^10.2",
+        "phpstan/phpstan": "^1.10"
+    },
+    "autoload": {
+        "psr-4": {
+            "Dnw\\Discuss\\": "src/"
+        }
+    },
+    "require": {}
+}
